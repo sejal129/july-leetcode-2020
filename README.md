@@ -1,5 +1,5 @@
 # july-leetcode-2020
-Welcome to the June Leetcode Challenge Solutions.
+Welcome to the July Leetcode Challenge Solutions.
 
 Programming Language: Python
 
