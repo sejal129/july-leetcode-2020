@@ -8,3 +8,4 @@ Programming Language: Python
 |Day|Problem| Time Taken | Algorithm Used | Data Structures Encountered|Difficulty Level|
 |--|------| ---------- | -------------- |----|---|
 |0|[Arranging Coins](https://leetcode.com/explore/featured/card/july-leetcoding-challenge/544/week-1-july-1st-july-7th/3377/)|15 minutes|None|None|Easy|
+|1|[Binary Tree Level Order Traversal II](https://leetcode.com/explore/featured/card/july-leetcoding-challenge/544/week-1-july-1st-july-7th/3378/)|30 minutes|None|Queue|Easy|
