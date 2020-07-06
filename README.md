@@ -12,3 +12,4 @@ Programming Language: Python
 |2|[Prison Cells After N Days](https://leetcode.com/explore/challenge/card/july-leetcoding-challenge/544/week-1-july-1st-july-7th/3379/)|1 hour|None|Array|Medium|
 |3|[Ugly Number II](https://leetcode.com/explore/challenge/card/july-leetcoding-challenge/544/week-1-july-1st-july-7th/3380/)|1 hour|Dynamic Programming|Array|Medium|
 |4|[Hamming Distance](https://leetcode.com/explore/challenge/card/july-leetcoding-challenge/544/week-1-july-1st-july-7th/3381/)|5 minutes|None|None|Easy|
+|5|[Plus One](https://leetcode.com/explore/featured/card/july-leetcoding-challenge/544/week-1-july-1st-july-7th/3382/)|10 minutes|None|Array|Easy|
