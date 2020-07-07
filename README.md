@@ -13,3 +13,4 @@ Programming Language: Python
 |3|[Ugly Number II](https://leetcode.com/explore/challenge/card/july-leetcoding-challenge/544/week-1-july-1st-july-7th/3380/)|1 hour|Dynamic Programming|Array|Medium|
 |4|[Hamming Distance](https://leetcode.com/explore/challenge/card/july-leetcoding-challenge/544/week-1-july-1st-july-7th/3381/)|5 minutes|None|None|Easy|
 |5|[Plus One](https://leetcode.com/explore/featured/card/july-leetcoding-challenge/544/week-1-july-1st-july-7th/3382/)|10 minutes|None|Array|Easy|
+|6|[Island Perimeter](https://leetcode.com/explore/featured/card/july-leetcoding-challenge/544/week-1-july-1st-july-7th/3383/)|45 minutes|Recursion|Array(Matrix)|Medium|
