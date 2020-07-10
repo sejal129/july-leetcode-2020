@@ -14,3 +14,5 @@ Programming Language: Python
 |4|[Hamming Distance](https://leetcode.com/explore/challenge/card/july-leetcoding-challenge/544/week-1-july-1st-july-7th/3381/)|5 minutes|None|None|Easy|
 |5|[Plus One](https://leetcode.com/explore/featured/card/july-leetcoding-challenge/544/week-1-july-1st-july-7th/3382/)|10 minutes|None|Array|Easy|
 |6|[Island Perimeter](https://leetcode.com/explore/featured/card/july-leetcoding-challenge/544/week-1-july-1st-july-7th/3383/)|45 minutes|Recursion|Array(Matrix)|Medium|
+|7|[3Sum](https://leetcode.com/explore/featured/card/july-leetcoding-challenge/545/week-2-july-8th-july-14th/3384/)|2 hours|None|Array|Medium|
+|8|[Maximum Width of Binary Tree](https://leetcode.com/explore/featured/card/july-leetcoding-challenge/545/week-2-july-8th-july-14th/3385/)|2 hours|DFS|List|Medium|
