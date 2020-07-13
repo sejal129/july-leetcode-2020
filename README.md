@@ -18,3 +18,4 @@ Programming Language: Python
 |8|[Maximum Width of Binary Tree](https://leetcode.com/explore/featured/card/july-leetcoding-challenge/545/week-2-july-8th-july-14th/3385/)|2 hours|DFS|List|Medium|
 |9|[Flatten a Multilevel Doubly Linked List](https://leetcode.com/explore/featured/card/july-leetcoding-challenge/545/week-2-july-8th-july-14th/3386/)|2 hours|DFS|Stack|Medium|
 |10|[Subsets](https://leetcode.com/explore/featured/card/july-leetcoding-challenge/545/week-2-july-8th-july-14th/3387/)|10 minutes|None|Array|Easy|
+|11|[Reverse Bits](https://leetcode.com/explore/featured/card/july-leetcoding-challenge/545/week-2-july-8th-july-14th/3388/)|30 minutes|None|None|Easy|
