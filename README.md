@@ -19,3 +19,4 @@ Programming Language: Python
 |9|[Flatten a Multilevel Doubly Linked List](https://leetcode.com/explore/featured/card/july-leetcoding-challenge/545/week-2-july-8th-july-14th/3386/)|2 hours|DFS|Stack|Medium|
 |10|[Subsets](https://leetcode.com/explore/featured/card/july-leetcoding-challenge/545/week-2-july-8th-july-14th/3387/)|10 minutes|None|Array|Easy|
 |11|[Reverse Bits](https://leetcode.com/explore/featured/card/july-leetcoding-challenge/545/week-2-july-8th-july-14th/3388/)|30 minutes|None|None|Easy|
+|12|[Same Tree](https://leetcode.com/explore/featured/card/july-leetcoding-challenge/545/week-2-july-8th-july-14th/3389/)|15 minutes|None|Tree|Easy|
