@@ -23,4 +23,5 @@ Programming Language: Python
 |13|[Angle Between Hands of a Clock](https://leetcode.com/explore/challenge/card/july-leetcoding-challenge/545/week-2-july-8th-july-14th/3390/)|30 minutes|None|None|Easy|
 |14|[Reverse Words in a String](https://leetcode.com/explore/challenge/card/july-leetcoding-challenge/546/week-3-july-15th-july-21st/3391/)|20 minutes|None|Array|Easy|
 |15|[Pow(x, n)](https://leetcode.com/explore/featured/card/july-leetcoding-challenge/546/week-3-july-15th-july-21st/3392/)|5 minutes|None|None|Easy|
-|16|[Top K Frequent Elements](https://leetcode.com/explore/featured/card/july-leetcoding-challenge/546/week-3-july-15th-july-21st/3393/)|15 minutes|None|Dictionary. Array|Easy|
+|16|[Top K Frequent Elements](https://leetcode.com/explore/featured/card/july-leetcoding-challenge/546/week-3-july-15th-july-21st/3393/)|15 minutes|None|Dictionary, Array|Easy|
+|17|[Course Schedule II](https://leetcode.com/explore/challenge/card/july-leetcoding-challenge/546/week-3-july-15th-july-21st/3394/)|1 hour|None|Dictionary, Array|Medium|
