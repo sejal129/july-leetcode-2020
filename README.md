@@ -25,3 +25,4 @@ Programming Language: Python
 |15|[Pow(x, n)](https://leetcode.com/explore/featured/card/july-leetcoding-challenge/546/week-3-july-15th-july-21st/3392/)|5 minutes|None|None|Easy|
 |16|[Top K Frequent Elements](https://leetcode.com/explore/featured/card/july-leetcoding-challenge/546/week-3-july-15th-july-21st/3393/)|15 minutes|None|Dictionary, Array|Easy|
 |17|[Course Schedule II](https://leetcode.com/explore/challenge/card/july-leetcoding-challenge/546/week-3-july-15th-july-21st/3394/)|1 hour|None|Dictionary, Array|Medium|
+|18|[Add Binary](https://leetcode.com/explore/challenge/card/july-leetcoding-challenge/546/week-3-july-15th-july-21st/3395/)|5 minutes|None|None|Easy
