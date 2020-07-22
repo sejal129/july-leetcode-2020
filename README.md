@@ -28,3 +28,4 @@ Programming Language: Python
 |18|[Add Binary](https://leetcode.com/explore/challenge/card/july-leetcoding-challenge/546/week-3-july-15th-july-21st/3395/)|5 minutes|None|None|Easy|
 |19|[Remove Linked List Elements](https://leetcode.com/explore/featured/card/july-leetcoding-challenge/546/week-3-july-15th-july-21st/3396/)|1 hour|None|Linked List|Medium|
 |20|[Word Search](https://leetcode.com/explore/challenge/card/july-leetcoding-challenge/546/week-3-july-15th-july-21st/3397/)|1 hour|DFS|Array(Matrix)|Medium|
+|21|[Binary Tree Zigzag Level Order Traversal](https://leetcode.com/explore/featured/card/july-leetcoding-challenge/547/week-4-july-22nd-july-28th/3398/)|15 minutes|BFS|Binary Tree|Easy|
