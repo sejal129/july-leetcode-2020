@@ -27,3 +27,4 @@ Programming Language: Python
 |17|[Course Schedule II](https://leetcode.com/explore/challenge/card/july-leetcoding-challenge/546/week-3-july-15th-july-21st/3394/)|1 hour|None|Dictionary, Array|Medium|
 |18|[Add Binary](https://leetcode.com/explore/challenge/card/july-leetcoding-challenge/546/week-3-july-15th-july-21st/3395/)|5 minutes|None|None|Easy|
 |19|[Remove Linked List Elements](https://leetcode.com/explore/featured/card/july-leetcoding-challenge/546/week-3-july-15th-july-21st/3396/)|1 hour|None|Linked List|Medium|
+|20|[Word Search](https://leetcode.com/explore/challenge/card/july-leetcoding-challenge/546/week-3-july-15th-july-21st/3397/)|1 hour|DFS|Array(Matrix)|Medium|
