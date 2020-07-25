@@ -31,3 +31,4 @@ Programming Language: Python
 |21|[Binary Tree Zigzag Level Order Traversal](https://leetcode.com/explore/featured/card/july-leetcoding-challenge/547/week-4-july-22nd-july-28th/3398/)|15 minutes|BFS|Binary Tree|Easy|
 |22|[Single Number III](https://leetcode.com/explore/featured/card/july-leetcoding-challenge/547/week-4-july-22nd-july-28th/3399/)|5 minutes|None|Dictionary|Easy|
 |23|[All Paths From Source to Target](https://leetcode.com/explore/featured/card/july-leetcoding-challenge/547/week-4-july-22nd-july-28th/3400/)|1 hour|DFS|Array|Medium|
+|24|[Find Minimum in Rotated Sorted Array II](https://leetcode.com/explore/featured/card/july-leetcoding-challenge/547/week-4-july-22nd-july-28th/3401/)|2 minutes|None|None|Easy|
