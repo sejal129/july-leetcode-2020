@@ -34,3 +34,4 @@ Programming Language: Python
 |24|[Find Minimum in Rotated Sorted Array II](https://leetcode.com/explore/featured/card/july-leetcoding-challenge/547/week-4-july-22nd-july-28th/3401/)|2 minutes|None|None|Easy|
 |25|[Add Digits](https://leetcode.com/explore/featured/card/july-leetcoding-challenge/547/week-4-july-22nd-july-28th/3402/)|10 minutes|Recursion|None|Easy|
 |26|[Construct Binary Tree from Inorder and Postorder Traversal](https://leetcode.com/explore/featured/card/july-leetcoding-challenge/547/week-4-july-22nd-july-28th/3403/)|1 hour|Recursion|Tree|Medium|
+|27|[Task Scheduler](https://leetcode.com/explore/challenge/card/july-leetcoding-challenge/547/week-4-july-22nd-july-28th/3404/)|2 hours|None|Dictionary|Hard|
