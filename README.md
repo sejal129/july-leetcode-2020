@@ -35,3 +35,4 @@ Programming Language: Python
 |25|[Add Digits](https://leetcode.com/explore/featured/card/july-leetcoding-challenge/547/week-4-july-22nd-july-28th/3402/)|10 minutes|Recursion|None|Easy|
 |26|[Construct Binary Tree from Inorder and Postorder Traversal](https://leetcode.com/explore/featured/card/july-leetcoding-challenge/547/week-4-july-22nd-july-28th/3403/)|1 hour|Recursion|Tree|Medium|
 |27|[Task Scheduler](https://leetcode.com/explore/challenge/card/july-leetcoding-challenge/547/week-4-july-22nd-july-28th/3404/)|2 hours|None|Dictionary|Hard|
+|28|[Best Time to Buy and Sell Stock with Cooldown](https://leetcode.com/explore/challenge/card/july-leetcoding-challenge/548/week-5-july-29th-july-31st/3405/)|1 hour|None|Array|Medium|
